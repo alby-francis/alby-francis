@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alby-francis
 - 👀 I’m interested in Technology
 - 🌱 I’m currently studying Computer Science Engineering.
-- 💞️ I’m looking to collaborate on making projects.
+- 💞️ I’m looking to collaborate on building projects.
 - 📫 How to reach me email: albyfrancis21@gmail.com
 
 <!---
